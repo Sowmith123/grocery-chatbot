@@ -15,5 +15,8 @@ This is a beginner-level **rule-based chatbot** developed in **Python** to simul
 
 ---
 
-## 🗂️ Project Structure
+## 🔗 View Notebook
+
+👉 [Open grocery_chatbot.ipynb](grocery_chatbot.ipynb) directly in your browser.
+
 
