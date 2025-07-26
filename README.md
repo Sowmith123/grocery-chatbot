@@ -1,11 +1,19 @@
-# Grocery Chatbot 🛒
-A beginner-level rule-based chatbot built in Python for answering grocery-related queries.
 
-## Features
-- Responds to greetings
-- Answers product prices
-- Simulates adding items to cart
+# 🛒 Grocery Chatbot (Rule-Based)
 
-## How to Run
-```bash
-python chatbot.py
+This is a beginner-level **rule-based chatbot** developed in **Python** to simulate a simple grocery shopping assistant. The chatbot responds to user inputs about product prices and allows adding items to a simulated cart.
+
+---
+
+## 📌 Features
+
+- 🤖 Greets the user
+- 🛍️ Answers basic product-related queries (e.g., prices of tomatoes, rice, etc.)
+- 🧠 Uses simple keyword-based logic (no machine learning)
+- 🧺 Simulates adding items to a shopping cart
+- ❌ Gracefully exits when user types "bye"
+
+---
+
+## 🗂️ Project Structure
+
